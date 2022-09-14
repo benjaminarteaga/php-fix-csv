@@ -1,5 +1,5 @@
-<!DOCTYPE htm>
-<htm lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <header>
     <style>
       body {

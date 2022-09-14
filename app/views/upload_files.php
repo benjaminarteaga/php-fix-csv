@@ -1,5 +1,5 @@
-<!DOCTYPE htm>
-<htm lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <header>
     <style>
       body {
@@ -15,4 +15,4 @@
       <input type="submit" value="Upload">
     </form>
   </body>
-</htm>
+</html>
